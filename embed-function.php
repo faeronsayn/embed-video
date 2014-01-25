@@ -1,3 +1,5 @@
+<?php
+
 function embeddingVideos($videoID, $videoProvider) {
 
 $width = "100%";
@@ -57,3 +59,5 @@ $height = "100%";
 		<?php }
                            
 }
+
+?>
